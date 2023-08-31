@@ -1,1 +1,1 @@
-Devops project
+shell_permissions
